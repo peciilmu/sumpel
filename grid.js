@@ -9,5 +9,5 @@ window.onload = function () {
 	}
 	e.setAttribute("href", "http://peciilmu.blogspot.com/");
 	e.setAttribute("rel", "nofollow");
-	e.innerHTML = "Copyright &#169; 2015 <a expr:href='data:blog.homepageUrl' itemprop='creator' itemscope='itemscope' itemtype='http://schema.org/Person'><span itemprop='name'><data:blog.title/></span></a> All Right Reserved - Re-Design by <a href='http://peciilmu.blogspot.com' target='_blank'>Peci ilmu</a>"
+	e.innerHTML = "Copyright &#169; 2017 <a expr:href='data:blog.homepageUrl' itemprop='creator' itemscope='itemscope' itemtype='http://schema.org/Person'><span itemprop='name'><data:blog.title/></span></a> All Right Reserved - Re-Design by <a href='http://peciilmu.blogspot.com' target='_blank'>Peci ilmu</a>"
 }
